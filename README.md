@@ -1,8 +1,12 @@
 # Dishwasher-Breakdown
-Bosch Dishwasher breakdown record the results and findings
+Complete a Breakdown record the results and findings
 
-#Future Improvements 
+# Dishwasher Basic Findings
+Bosch Dishwasher series 800 Product Number: SHP78CM5N
+Price= $1400
+
+# Future Improvements 
 NA
 
-#Results
+# Results
 none yet :(
