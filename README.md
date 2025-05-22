@@ -11,25 +11,25 @@
 
 # Results
 ## Not Useful
--### Desiccant
+### Desiccant
     - Air flow filter/maybe heater or emagnetism) maybe silica gel?
--### PCB Gearbox:
+### PCB Gearbox:
     - Spins spray arm
--### Synchronus Micro Motor:
+### Synchronus Micro Motor:
     - for using more or less water for distrubution
   
 ## Useful and Notes
--#### 3 Stator BLDC Motor
+#### 3 Stator BLDC Motor
     - Permanent Magnet proved via Back Emf view on Oscope 
     - 3 Phase 
--### 9 Stator BLDC Motor
+### 9 Stator BLDC Motor
     - Permanent Magnet proved via Back Emf view on Oscope
     - 3 Phase
--### Inlet Valve solenoid
+### Inlet Valve solenoid
     - Normally Closed Pull w Spring 110-127V 60Hz AC
--### Soap Dispenser Solenoid
+### Soap Dispenser Solenoid
     - Normally Closed 155-180VDC
--### Fan BLDC Motor From Desacant
+### Fan BLDC Motor From Desacant
     - Permanent Magnet proved via Back Emf view on Oscope 
 
 ## Steps Forward
