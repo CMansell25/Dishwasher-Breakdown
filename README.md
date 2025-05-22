@@ -29,7 +29,7 @@
     - Normally Closed Pull w Spring 110-127V 60Hz AC
 ### Soap Dispenser Solenoid
     - Normally Closed 155-180VDC
-### Fan BLDC Motor From Desacant
+### 6 Stator BLDC Motor From Desacant
     - Permanent Magnet proved via Back Emf view on Oscope 
 
 ## Steps Forward
