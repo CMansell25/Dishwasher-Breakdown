@@ -18,7 +18,7 @@
 - Inlet Valve solenoid Normally Closed
 - Soap Dispenser Solenoid TBD
 
-  ## Steps Forward
-  - Understand what these parts are supposed to do together
-  - Understand the specs of the viable parts
-  - Improve viable parts
+## Steps Forward
+- Understand what these parts are supposed to do together
+- Understand the specs of the viable parts
+- Improve viable parts
