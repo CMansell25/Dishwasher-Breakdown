@@ -1,17 +1,20 @@
 # Dishwasher-Breakdown
 - Complete a Breakdown record the results and findings
-- Pictures are Free
+- Pictures are always Free
 
 ## Dishwasher Basic Findings
 - Bosch Dishwasher series 800 Product Number: SHP78CM5N
 - Price = $1400
-- Instructions/Parts
+- Instructions/ Manuuals
+- Online Parts
+- Old Teardown Processes for other appliances
 
 ## Results
 ### Not Useful
 - Inline Heater and Filter Circulation
 - PCB Gearbox
 - Micro Motor
+  
 ### Useful
 - Brushless DC motor
 - Burshless DC Motor Drain Pump
