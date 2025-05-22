@@ -11,17 +11,25 @@
 
 ## Results
 ### Not Useful
-- Inline Heater and Filter Circulation
-- PCB Gearbox
-- Micro Motor
+- Desiccant
+    - Air flow filter/maybe heater or emagnetism) maybe silica gel?
+- PCB Gearbox: 
+- Micro Motor:
+    - for using more or less water for distrubution
   
-### Useful
-- Brushless DC motor
-- Burshless DC Motor Drain Pump
-- Inlet Valve solenoid Normally Closed
-- Soap Dispenser Solenoid TBD
+### Useful and Notes
+# 3 phase Delta Wound 3 Stator BLDC Motor
+    - Permanent Magnet proved via Back Emf view on Oscope 
+# 9 Stator BLDC Motor
+    - Permanent Magnet proved via Back Emf view on Oscope 
+# Inlet Valve solenoid
+    - Normally Closed Pull w Spring 110-127V 60Hz AC
+# Soap Dispenser Solenoid
+    - Normally Closed 155-180VDC
+# Fan BLDC Motor From Desacant
+    - Permanent Magnet proved via Back Emf view on Oscope 
 
 ## Steps Forward
-- Understand what these parts are supposed to do together
+- Understand what these parts are supposed to do together and their systems IE water and air
 - Understand the specs of the viable parts
-- Improve viable parts
+- Improve viable parts if possible
