@@ -12,7 +12,7 @@
 # Results
 ## Not Useful
 ### Desiccant
-    - Air flow filter/maybe heater or emagnetism) maybe silica gel?
+    - Air flow filter/maybe heater or emagnetism) Zeolite Crystals
 ### PCB Gearbox:
     - Spins spray arm
 ### Synchronus Micro Motor:
