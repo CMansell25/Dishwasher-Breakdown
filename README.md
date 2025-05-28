@@ -11,23 +11,23 @@
 
 # Results
 ## 3 Stator BLDC Motor
-    - Permanent Magnet proved via Back Emf view on Oscope 
-    - 3 Phase 
+- Permanent Magnet proved via Back Emf view on Oscope 
+- 3 Phase 
 ## 9 Stator BLDC Motor
-    - Permanent Magnet proved via Back Emf view on Oscope
-    - 3 Phase
+- Permanent Magnet proved via Back Emf view on Oscope
+- 3 Phase
 ## Inlet Valve solenoid
-    - Normally Closed Pull w Spring 110-127V 60Hz AC
+- Normally Closed Pull w Spring 110-127V 60Hz AC
 ## Soap Dispenser Solenoid
-    - Normally Closed 155-180VDC
+- Normally Closed 155-180VDC
 ## 6 Stator BLDC Motor From Desacant
-    - Permanent Magnet proved via Back Emf view on Oscope 
+- Permanent Magnet proved via Back Emf view on Oscope 
 ## Desiccant
-    - Air flow filter/maybe heater or emagnetism) Zeolite Crystals
+- Air flow filter/maybe heater or emagnetism) Zeolite Crystals
 ## PCB Gearbox:
-    - Spins spray arm
+- Spins spray arm
 ## Synchronus Micro Motor:
-    - for using more or less water for distrubution
+- for using more or less water for distrubution
 
 ## Steps Forward
 - Understand what these parts are supposed to do together and their systems IE water and air
