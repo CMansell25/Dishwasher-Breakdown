@@ -5,7 +5,7 @@
 ## Dishwasher Basic Findings
 - Bosch Dishwasher series 800 Product Number: SHP78CM5N
 - Price = $1400
-- Instructions/ Manuuals
+- Instructions/ Manuals
 - Online Parts
 - Old Teardown Processes for other appliances
 
